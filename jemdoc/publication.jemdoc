@@ -2,34 +2,35 @@
 = Le Liang
 [https://www.seu.edu.cn/ Southeast University, Nanjing, China]
 
+For a complete list of publications, please see [https://scholar.google.ca/citations?user=Iv2E-SsAAAAJ&hl=en Google Scholar].
+
 == Preprints
 - [https://arxiv.org/abs/2308.06562 Gradient-based Markov chain Monte Carlo for MIMO detection] \n 
-X. Zhou, L. Liang*, J. Zhang, C.-K. Wen, and S. Jin, “Gradient-based Markov chain Monte Carlo for MIMO detection,” IEEE Transactions on Wireless Communications, Dec. 2023.
+X. Zhou, L. Liang*, J. Zhang, C.-K. Wen, and S. Jin, “Gradient-based Markov chain Monte Carlo for MIMO detection,” /IEEE Transactions on Wireless Communications/, Dec. 2023.
 
 - [https://arxiv.org/abs/2309.17185 Meta reinforcement learning for fast spectrum sharing in vehicular networks] \n 
-K. Huang, L. Liang*, S. Jin, and G. Y. Li, “Meta reinforcement learning for fast spectrum sharing in vehicular networks,” China Communications, Sep. 2023.
+K. Huang, L. Liang*, S. Jin, and G. Y. Li, “Meta reinforcement learning for fast spectrum sharing in vehicular networks,” /China Communications/, Sep. 2023.
 
 - [https://ieeexplore.ieee.org/abstract/document/10255404/ Universal model-driven deep learning for MIMO transceiver design] \n 
-J. Zhang, C.-K. Wen, L. Liang, and S. Jin, “Universal model-driven deep learning for MIMO transceiver design,” IEEE Communications Magazine, Sep. 2023.
+J. Zhang, C.-K. Wen, L. Liang, and S. Jin, “Universal model-driven deep learning for MIMO transceiver design,” /IEEE Communications Magazine/, Sep. 2023.
 
 - [https://ieeexplore.ieee.org/document/10185584 SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications] \n 
-Y. Mao, Z. Zhao, M. Yang, L. Liang, Y. Liu, W. Ding, T. Lan, and X.-P. Zhang, “SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications,” IEEE Transactions on Mobile Computing, July 2023.
+Y. Mao, Z. Zhao, M. Yang, L. Liang, Y. Liu, W. Ding, T. Lan, and X.-P. Zhang, “SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications,” /IEEE Transactions on Mobile Computing/, July 2023.
 
 - [https://ieeexplore.ieee.org/document/9903381 Age of information, latency, and reliability in intelligent vehicular networks] \n 
-C. Guo, X. Wang, L. Liang, and G. Y. Li, “Age of information, latency, and reliability in intelligent vehicular
-networks,” IEEE Network, 2022.
+C. Guo, X. Wang, L. Liang, and G. Y. Li, “Age of information, latency, and reliability in intelligent vehicular networks,” /IEEE Network/, 2022.
 
 == Journal papers
 
 === 2023
 - [https://ieeexplore.ieee.org/document/10081395 AoI-driven power allocation and batch sampling control for V2V status update communications] \n 
-C. Guo, S. Liu, B. Liao, Z. Wang, and L. Liang, “AoI-driven power allocation and batch sampling control for V2V status update communications,” IEEE Transactions on Industrial Informatics, vol. 20, no. 1, pp. 291-302, Jan. 2024.
+C. Guo, S. Liu, B. Liao, Z. Wang, and L. Liang, “AoI-driven power allocation and batch sampling control for V2V status update communications,” /IEEE Transactions on Industrial Informatics/, vol. 20, no. 1, pp. 291-302, Jan. 2024.
 
 - [https://ieeexplore.ieee.org/abstract/document/10148061 Reinforcement learning based power control for reliable mission-critical wireless transmission] \n 
-C. Guo, Z. Li, L. Liang*, and G. Y. Li, “Reinforcement learning based power control for reliable mission-critical wireless transmission,” IEEE Internet of Things Journal, vol. 10, no. 23, pp. 20868-20883, Dec. 2023.
+C. Guo, Z. Li, L. Liang*, and G. Y. Li, “Reinforcement learning based power control for reliable mission-critical wireless transmission,” /IEEE Internet of Things Journal/, vol. 10, no. 23, pp. 20868-20883, Dec. 2023.
 
 - [https://ieeexplore.ieee.org/abstract/document/9919273 Mean-field aided multi-agent reinforcement learning for resource allocation in vehicular networks] \n 
-H. Zhang, C. Lu, H. Tang, X. Wei, L. Liang, L. Cheng, W. Ding, and Z. Han, “Mean-field aided multi-agent reinforcement learning for resource allocation in vehicular networks,” IEEE Internet of Things Journal, vol. 10, no. 3, pp. 2667-2679, Feb. 2023.
+H. Zhang, C. Lu, H. Tang, X. Wei, L. Liang, L. Cheng, W. Ding, and Z. Han, “Mean-field aided multi-agent reinforcement learning for resource allocation in vehicular networks,” /IEEE Internet of Things Journal/, vol. 10, no. 3, pp. 2667-2679, Feb. 2023.
 
 === 2022
 - [https://ieeexplore.ieee.org/document/9762762/ Coverage control for UAV swarm communication networks: A distributed learning approach] \n 
@@ -120,25 +121,25 @@ L. Liang, W. Xu, and X. Dong, /IEEE Transactions on Wireless Communications/, vo
 
 == Conference papers
 - [https://arxiv.org/abs/2308.06562 MIMO detection using gradient-based Markov chain Monte Carlo methods] \n
-X. Zhou, L. Liang, J. Zhang, and S. Jin, “MIMO detection using gradient-based Markov chain Monte Carlo methods,” in Proceedings of IEEE Global Communications Conference (GLOBECOM), 2023, pp. 1–6.
+X. Zhou, L. Liang, J. Zhang, and S. Jin, “MIMO detection using gradient-based Markov chain Monte Carlo methods,” in /Proceedings of IEEE Global Communications Conference (GLOBECOM)/, 2023, pp. 1–6.
 
 - [https://globecom2023.ieee-globecom.org/program/workshops-program Sparse graph neural networks for two-timescale wireless resource allocation] \n
-K. Wang, H. Ye, L. Liang, and S. Jin, “Sparse graph neural networks for two-timescale wireless resource allocation,” in Proceedings of IEEE Global Communications Conference (GLOBECOM) Workshop, 2023, pp. 1-6.
+K. Wang, H. Ye, L. Liang, and S. Jin, “Sparse graph neural networks for two-timescale wireless resource allocation,” in /Proceedings of IEEE Global Communications Conference (GLOBECOM) Workshop/, 2023, pp. 1-6.
 
 - [https://arxiv.org/abs/2311.06498 Semantic communication for cooperative perception based on the importance map] \n
-Y. Sheng, H. Ye, L. Liang, and S. Jin, “Semantic communication for cooperative perception based on the importance map,” in Proceedings of International Conference on Wireless Communications and Signal Processing (WCSP), 2023, pp. 1–6.
+Y. Sheng, H. Ye, L. Liang, and S. Jin, “Semantic communication for cooperative perception based on the importance map,” in /Proceedings of International Conference on Wireless Communications and Signal Processing (WCSP)/, 2023, pp. 1–6.
 
 - [https://ieeexplore.ieee.org/document/10283499 Pilot-free semantic communication systems for frequency-selective fading channels] \n
-Z. Cao, H. Zhang, L. Liang, and H. Wang, “Pilot-free semantic communication systems for frequency-selective fading channels,” in Proceedings of IEEE International Conference on Communications (ICC) Workshop, 2023, pp. 1–6.
+Z. Cao, H. Zhang, L. Liang, and H. Wang, “Pilot-free semantic communication systems for frequency-selective fading channels,” in /Proceedings of IEEE International Conference on Communications (ICC) Workshop/, 2023, pp. 1–6.
 
 - [https://ieeexplore.ieee.org/document/9940399 Joint spectrum allocation and power control in vehicular networks based on reinforcement learning] \n
-K. Wang, Y. Feng, L. Liang, and S. Jin, “Joint spectrum allocation and power control in vehicular networks based on reinforcement learning,” in Proceedings of International Symposium on Wireless Communications Systems (ISWCS), 2022, pp. 1-6.
+K. Wang, Y. Feng, L. Liang, and S. Jin, “Joint spectrum allocation and power control in vehicular networks based on reinforcement learning,” in /Proceedings of International Symposium on Wireless Communications Systems (ISWCS)/, 2022, pp. 1-6.
 
 - [https://ieeexplore.ieee.org/document/10013075 A multi-task semantic communication system for natural language processing] \n
-Y. Sheng, F. Li, L. Liang, and S. Jin, “A multi-task semantic communication system for natural language processing,” in Proceedings of IEEE Vehicular Technology Conference (VTC), 2022, pp. 1 - 5.
+Y. Sheng, F. Li, L. Liang, and S. Jin, “A multi-task semantic communication system for natural language processing,” in /Proceedings of IEEE Vehicular Technology Conference (VTC)/, 2022, pp. 1 - 5.
 
 - [https://ieeexplore.ieee.org/abstract/document/10012705 Fast spectrum sharing in vehicular networks: A meta reinforcement learning approach] \n
-K. Huang, Z. Luo, L. Liang, and S. Jin, “Fast spectrum sharing in vehicular networks: A meta reinforcement learning approach,” in Proceedings of IEEE Vehicular Technology Conference (VTC), 2022, pp. 1-5.
+K. Huang, Z. Luo, L. Liang, and S. Jin, “Fast spectrum sharing in vehicular networks: A meta reinforcement learning approach,” in /Proceedings of IEEE Vehicular Technology Conference (VTC)/, 2022, pp. 1-5.
 
 - [https://ieeexplore.ieee.org/abstract/document/8815483 Circular convolutional auto-encoder for channel coding] \n
 H. Ye, L. Liang, and G. Y. Li, in /Proceedings of IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, 2019, pp. 1--5.
